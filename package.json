@@ -1,6 +1,6 @@
 {
   "name": "coeus-client",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Coeus client for javascript. Coeus is a customizable flag service. ",
   "repository": {
     "type": "git",
